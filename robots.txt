@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wwwfirozshaikh5419-bit.github.io/firoz-digital-services/sitemap.xml
